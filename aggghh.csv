@@ -1,203 +1,203 @@
-,"""Food""","""Event"""
-"""0""","""Shortbread""","""After """
-"""1""","""Inulin""","""Before"""
-"""2""","""Chocolate""","""Before"""
-"""3""","""Inulin""","""Before"""
-"""4""","""Shortbread""","""Before"""
-"""5""","""Shortbread""","""Before"""
-"""6""","""RM""","""After """
-"""7""","""RM""","""Before"""
-"""8""","""QC""","""Middle"""
-"""9""","""Shortbread""","""After """
-"""10""","""RM""","""After """
-"""11""","""RM""","""After """
-"""12""","""RM""","""After """
-"""13""","""Inulin""","""After """
-"""14""","""RM""","""Before"""
-"""15""","""RM""","""Before"""
-"""16""","""RM""","""After """
-"""17""","""QC""","""Middle"""
-"""18""","""Chocolate""","""Before"""
-"""19""","""RM""","""After """
-"""20""","""Inulin""","""After """
-"""21""","""Chocolate""","""Before"""
-"""22""","""RM""","""Before"""
-"""23""","""Shortbread""","""After """
-"""24""","""RM""","""After """
-"""25""","""Chocolate""","""After """
-"""26""","""Chocolate""","""Before"""
-"""27""","""Chocolate""","""Before"""
-"""28""","""QC""","""Middle"""
-"""29""","""Inulin""","""After """
-"""30""","""Shortbread""","""After """
-"""31""","""Inulin""","""After """
-"""32""","""Inulin""","""Before"""
-"""33""","""Chocolate""","""Before"""
-"""34""","""Chocolate""","""After """
-"""35""","""Chocolate""","""After """
-"""36""","""RM""","""After """
-"""37""","""QC""","""Middle"""
-"""38""","""Inulin""","""Before"""
-"""39""","""Chocolate""","""After """
-"""40""","""Shortbread""","""After """
-"""41""","""Shortbread""","""After """
-"""42""","""RM""","""After """
-"""43""","""Chocolate""","""After """
-"""44""","""Inulin""","""Before"""
-"""45""","""Shortbread""","""Before"""
-"""46""","""RM""","""Before"""
-"""47""","""QC""","""Middle"""
-"""48""","""RM""","""After """
-"""49""","""Inulin""","""After """
-"""50""","""Shortbread""","""Before"""
-"""51""","""RM""","""Before"""
-"""52""","""Chocolate""","""After """
-"""53""","""Inulin""","""Before"""
-"""54""","""RM""","""Before"""
-"""55""","""Shortbread""","""After """
-"""56""","""Inulin""","""Before"""
-"""57""","""RM""","""Before"""
-"""58""","""QC""","""Middle"""
-"""59""","""Chocolate""","""Before"""
-"""60""","""Inulin""","""Before"""
-"""61""","""Chocolate""","""Before"""
-"""62""","""Chocolate""","""Before"""
-"""63""","""Shortbread""","""Before"""
-"""64""","""Shortbread""","""After """
-"""65""","""Shortbread""","""After """
-"""66""","""Chocolate""","""Before"""
-"""67""","""RM""","""Before"""
-"""68""","""Shortbread""","""After """
-"""69""","""QC""","""Middle"""
-"""70""","""Inulin""","""After """
-"""71""","""Inulin""","""Before"""
-"""72""","""RM""","""Before"""
-"""73""","""RM""","""Before"""
-"""74""","""Inulin""","""Before"""
-"""75""","""Chocolate""","""Before"""
-"""76""","""Inulin""","""After """
-"""77""","""Shortbread""","""Before"""
-"""78""","""RM""","""Before"""
-"""79""","""Shortbread""","""Before"""
-"""80""","""QC""","""Middle"""
-"""81""","""Inulin""","""Before"""
-"""82""","""Shortbread""","""After """
-"""83""","""Shortbread""","""Before"""
-"""84""","""RM""","""After """
-"""85""","""Shortbread""","""After """
-"""86""","""Chocolate""","""After """
-"""87""","""Inulin""","""After """
-"""88""","""Chocolate""","""Before"""
-"""89""","""Shortbread""","""Before"""
-"""90""","""Chocolate""","""After """
-"""91""","""QC""","""Middle"""
-"""92""","""Chocolate""","""After """
-"""93""","""Chocolate""","""Before"""
-"""94""","""Shortbread""","""After """
-"""95""","""RM""","""Before"""
-"""96""","""Chocolate""","""Before"""
-"""97""","""Inulin""","""Before"""
-"""98""","""Chocolate""","""After """
-"""99""","""RM""","""After """
-"""100""","""Shortbread""","""Before"""
-"""101""","""Chocolate""","""Before"""
-"""102""","""QC""","""Middle"""
-"""103""","""Chocolate""","""After """
-"""104""","""Inulin""","""After """
-"""105""","""Shortbread""","""Before"""
-"""106""","""Inulin""","""Before"""
-"""107""","""RM""","""After """
-"""108""","""Shortbread""","""After """
-"""109""","""Inulin""","""After """
-"""110""","""Inulin""","""Before"""
-"""111""","""RM""","""Before"""
-"""112""","""Inulin""","""After """
-"""113""","""QC""","""Middle"""
-"""114""","""Shortbread""","""After """
-"""115""","""Shortbread""","""After """
-"""116""","""Chocolate""","""Before"""
-"""117""","""RM""","""After """
-"""118""","""Inulin""","""Before"""
-"""119""","""Inulin""","""After """
-"""120""","""RM""","""After """
-"""121""","""Chocolate""","""Before"""
-"""122""","""Shortbread""","""Before"""
-"""123""","""Chocolate""","""After """
-"""124""","""QC""","""Middle"""
-"""125""","""Shortbread""","""Before"""
-"""126""","""Inulin""","""Before"""
-"""127""","""Inulin""","""After """
-"""128""","""RM""","""After """
-"""129""","""Inulin""","""Before"""
-"""130""","""Shortbread""","""After """
-"""131""","""Chocolate""","""After """
-"""132""","""Shortbread""","""Before"""
-"""133""","""Inulin""","""After """
-"""134""","""RM""","""Before"""
-"""135""","""QC""","""Middle"""
-"""136""","""RM""","""Before"""
-"""137""","""Inulin""","""After """
-"""138""","""Chocolate""","""Before"""
-"""139""","""Shortbread""","""After """
-"""140""","""RM""","""After """
-"""141""","""Inulin""","""Before"""
-"""142""","""Inulin""","""Before"""
-"""143""","""Inulin""","""After """
-"""144""","""Inulin""","""After """
-"""145""","""Inulin""","""After """
-"""146""","""QC""","""Middle"""
-"""147""","""RM""","""After """
-"""148""","""Chocolate""","""Before"""
-"""149""","""Shortbread""","""Before"""
-"""150""","""RM""","""After """
-"""151""","""Shortbread""","""Before"""
-"""152""","""Shortbread""","""After """
-"""153""","""Chocolate""","""After """
-"""154""","""Inulin""","""Before"""
-"""155""","""RM""","""Before"""
-"""156""","""Inulin""","""After """
-"""157""","""QC""","""Middle"""
-"""158""","""Shortbread""","""Before"""
-"""159""","""Chocolate""","""Before"""
-"""160""","""Chocolate""","""Before"""
-"""161""","""Chocolate""","""After """
-"""162""","""Inulin""","""Before"""
-"""163""","""Chocolate""","""After """
-"""164""","""Inulin""","""After """
-"""165""","""RM""","""After """
-"""166""","""Chocolate""","""After """
-"""167""","""Chocolate""","""Before"""
-"""168""","""Inulin""","""Before"""
-"""169""","""RM""","""Before"""
-"""170""","""Chocolate""","""After """
-"""171""","""RM""","""Before"""
-"""172""","""Shortbread""","""After """
-"""173""","""RM""","""Before"""
-"""174""","""Shortbread""","""Before"""
-"""175""","""QC""","""Middle"""
-"""176""","""Chocolate""","""After """
-"""177""","""RM""","""Before"""
-"""178""","""Chocolate""","""Before"""
-"""179""","""Shortbread""","""Before"""
-"""180""","""Chocolate""","""After """
-"""181""","""Chocolate""","""Before"""
-"""182""","""Shortbread""","""Before"""
-"""183""","""QC""","""Middle"""
-"""184""","""Shortbread""","""After """
-"""185""","""Shortbread""","""Before"""
-"""186""","""Shortbread""","""Before"""
-"""187""","""Chocolate""","""After """
-"""188""","""RM""","""Before"""
-"""189""","""Shortbread""","""After """
-"""190""","""Chocolate""","""After """
-"""191""","""Inulin""","""After """
-"""192""","""Inulin""","""After """
-"""193""","""Shortbread""","""Before"""
-"""194""","""QC""","""Middle"""
-"""195""","""Shortbread""","""After """
-"""196""","""Inulin""","""Before"""
-"""197""","""QC""","""Middle"""
-"""198""","""Inulin""","""Before"""
-"""199""","""Chocolate""","""After """
-"""200""","""RM""","""After """
-"""201""","""Shortbread""","""Before"""
+ID,Food,Event
+0,Shortbread,After 
+1,Inulin,Before
+2,Chocolate,Before
+3,Inulin,Before
+4,Shortbread,Before
+5,Shortbread,Before
+6,RM,After 
+7,RM,Before
+8,QC,Middle
+9,Shortbread,After 
+10,RM,After 
+11,RM,After 
+12,RM,After 
+13,Inulin,After 
+14,RM,Before
+15,RM,Before
+16,RM,After 
+17,QC,Middle
+18,Chocolate,Before
+19,RM,After 
+20,Inulin,After 
+21,Chocolate,Before
+22,RM,Before
+23,Shortbread,After 
+24,RM,After 
+25,Chocolate,After 
+26,Chocolate,Before
+27,Chocolate,Before
+28,QC,Middle
+29,Inulin,After 
+30,Shortbread,After 
+31,Inulin,After 
+32,Inulin,Before
+33,Chocolate,Before
+34,Chocolate,After 
+35,Chocolate,After 
+36,RM,After 
+37,QC,Middle
+38,Inulin,Before
+39,Chocolate,After 
+40,Shortbread,After 
+41,Shortbread,After 
+42,RM,After 
+43,Chocolate,After 
+44,Inulin,Before
+45,Shortbread,Before
+46,RM,Before
+47,QC,Middle
+48,RM,After 
+49,Inulin,After 
+50,Shortbread,Before
+51,RM,Before
+52,Chocolate,After 
+53,Inulin,Before
+54,RM,Before
+55,Shortbread,After 
+56,Inulin,Before
+57,RM,Before
+58,QC,Middle
+59,Chocolate,Before
+60,Inulin,Before
+61,Chocolate,Before
+62,Chocolate,Before
+63,Shortbread,Before
+64,Shortbread,After 
+65,Shortbread,After 
+66,Chocolate,Before
+67,RM,Before
+68,Shortbread,After 
+69,QC,Middle
+70,Inulin,After 
+71,Inulin,Before
+72,RM,Before
+73,RM,Before
+74,Inulin,Before
+75,Chocolate,Before
+76,Inulin,After 
+77,Shortbread,Before
+78,RM,Before
+79,Shortbread,Before
+80,QC,Middle
+81,Inulin,Before
+82,Shortbread,After 
+83,Shortbread,Before
+84,RM,After 
+85,Shortbread,After 
+86,Chocolate,After 
+87,Inulin,After 
+88,Chocolate,Before
+89,Shortbread,Before
+90,Chocolate,After 
+91,QC,Middle
+92,Chocolate,After 
+93,Chocolate,Before
+94,Shortbread,After 
+95,RM,Before
+96,Chocolate,Before
+97,Inulin,Before
+98,Chocolate,After 
+99,RM,After 
+100,Shortbread,Before
+101,Chocolate,Before
+102,QC,Middle
+103,Chocolate,After 
+104,Inulin,After 
+105,Shortbread,Before
+106,Inulin,Before
+107,RM,After 
+108,Shortbread,After 
+109,Inulin,After 
+110,Inulin,Before
+111,RM,Before
+112,Inulin,After 
+113,QC,Middle
+114,Shortbread,After 
+115,Shortbread,After 
+116,Chocolate,Before
+117,RM,After 
+118,Inulin,Before
+119,Inulin,After 
+120,RM,After 
+121,Chocolate,Before
+122,Shortbread,Before
+123,Chocolate,After 
+124,QC,Middle
+125,Shortbread,Before
+126,Inulin,Before
+127,Inulin,After 
+128,RM,After 
+129,Inulin,Before
+130,Shortbread,After 
+131,Chocolate,After 
+132,Shortbread,Before
+133,Inulin,After 
+134,RM,Before
+135,QC,Middle
+136,RM,Before
+137,Inulin,After 
+138,Chocolate,Before
+139,Shortbread,After 
+140,RM,After 
+141,Inulin,Before
+142,Inulin,Before
+143,Inulin,After 
+144,Inulin,After 
+145,Inulin,After 
+146,QC,Middle
+147,RM,After 
+148,Chocolate,Before
+149,Shortbread,Before
+150,RM,After 
+151,Shortbread,Before
+152,Shortbread,After 
+153,Chocolate,After 
+154,Inulin,Before
+155,RM,Before
+156,Inulin,After 
+157,QC,Middle
+158,Shortbread,Before
+159,Chocolate,Before
+160,Chocolate,Before
+161,Chocolate,After 
+162,Inulin,Before
+163,Chocolate,After 
+164,Inulin,After 
+165,RM,After 
+166,Chocolate,After 
+167,Chocolate,Before
+168,Inulin,Before
+169,RM,Before
+170,Chocolate,After 
+171,RM,Before
+172,Shortbread,After 
+173,RM,Before
+174,Shortbread,Before
+175,QC,Middle
+176,Chocolate,After 
+177,RM,Before
+178,Chocolate,Before
+179,Shortbread,Before
+180,Chocolate,After 
+181,Chocolate,Before
+182,Shortbread,Before
+183,QC,Middle
+184,Shortbread,After 
+185,Shortbread,Before
+186,Shortbread,Before
+187,Chocolate,After 
+188,RM,Before
+189,Shortbread,After 
+190,Chocolate,After 
+191,Inulin,After 
+192,Inulin,After 
+193,Shortbread,Before
+194,QC,Middle
+195,Shortbread,After 
+196,Inulin,Before
+197,QC,Middle
+198,Inulin,Before
+199,Chocolate,After 
+200,RM,After 
+201,Shortbread,Before
